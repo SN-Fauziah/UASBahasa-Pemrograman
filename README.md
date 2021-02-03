@@ -161,4 +161,7 @@ while True:
     else:
         print("!!! === ERROR! Anda Memasukkan Pilihan yang Salah === !!!")
 ```
+<b> Untuk tampilan awal program saat dijalakan akan seperti di bawah ini </b>
+![mainpy](picture/mainpy.PNG) <br>
+
 
