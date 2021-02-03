@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7155c2e2-f032-417e-a25b-f768d41caf69" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/daftar_nilai.py" beforeDir="false" afterPath="$PROJECT_DIR$/model/daftar_nilai.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +30,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LatihanVCS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pertemuan 6" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Python.main">
@@ -115,26 +118,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1611630948604">
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1611631201309">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1611630948604" />
-    <state width="1345" height="335" key="GridCell.Tab.0.bottom" timestamp="1611067468287">
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1611631201309" />
+    <state width="628" height="639" key="GridCell.Tab.0.bottom" timestamp="1611649754975">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="335" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1611067468287" />
-    <state width="1345" height="335" key="GridCell.Tab.0.center" timestamp="1611067468287">
+    <state width="628" height="639" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1611649754975" />
+    <state width="628" height="639" key="GridCell.Tab.0.center" timestamp="1611649754975">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="335" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1611067468287" />
-    <state width="1345" height="335" key="GridCell.Tab.0.left" timestamp="1611067468287">
+    <state width="628" height="639" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1611649754975" />
+    <state width="628" height="639" key="GridCell.Tab.0.left" timestamp="1611649754975">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="335" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1611067468287" />
-    <state width="1345" height="335" key="GridCell.Tab.0.right" timestamp="1611067468287">
+    <state width="628" height="639" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1611649754975" />
+    <state width="628" height="639" key="GridCell.Tab.0.right" timestamp="1611649754975">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1345" height="335" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1611067468287" />
+    <state width="628" height="639" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1611649754975" />
     <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1611032397404">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -155,5 +158,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="28" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1611028975229" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1611636677104">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1611636677104" />
   </component>
 </project>
